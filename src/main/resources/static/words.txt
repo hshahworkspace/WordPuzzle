@@ -1,0 +1,8 @@
+sky
+blue
+mountain
+fresh
+cloud
+rock
+water
+melon
